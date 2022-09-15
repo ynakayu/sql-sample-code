@@ -1,0 +1,1 @@
+select id, last_name from users;

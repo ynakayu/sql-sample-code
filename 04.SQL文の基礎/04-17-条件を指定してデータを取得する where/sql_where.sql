@@ -1,0 +1,1 @@
+select name, price from products where price >= 9800;

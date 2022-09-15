@@ -1,0 +1,1 @@
+select min(price) from products;
